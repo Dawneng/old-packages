@@ -169,7 +169,7 @@ input,
 
 select:not([multiple="multiple"]):focus,
 input:focus {
-    border-color: #0099CC;
+    border-color: #dd6633;
 }
 
 select[multiple="multiple"] {
@@ -177,7 +177,7 @@ select[multiple="multiple"] {
 }
 
 code {
-    color: #0099CC;
+    color: #dd6633;
 }
 
 abbr {
@@ -320,7 +320,7 @@ header > .container > .brand {
     line-height:60px;
     color: white;
     cursor: default;
-    background: #0099CC;
+    background: #DD6633;
     display:block;
     width:17rem;
     padding-right: 10px;
